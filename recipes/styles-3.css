@@ -1,0 +1,30 @@
+/*Bhindi masala
+*/
+body{
+    background-color: lightyellow;
+}
+
+.title1{
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    color: rgba(221, 13, 13, 0.865);
+    
+}
+.text1{
+    color: rgba(221, 13, 13, 0.865);
+    font-weight: 900;
+    font-size: 16px;
+
+}
+.image1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+}
+div{
+    color: rgba(221, 13, 13, 0.865);
+
+}

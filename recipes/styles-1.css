@@ -1,0 +1,28 @@
+/*Chicken Tikka Recipe
+*/
+
+
+body{
+    background-color: lightyellow;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(221, 13, 13, 0.865);
+
+}
+.header1{
+    text-align: center;
+}
+.words1{
+    color: rgba(221, 13, 13, 0.865);
+    font-weight: 900;
+}
+.image1{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    height:auto
+}
+.title1, .title2, .title3{
+    color: rgba(221, 13, 13, 0.865);
+    font-weight: 900;
+}

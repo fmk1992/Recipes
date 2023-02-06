@@ -1,0 +1,22 @@
+/*Daal
+*/
+
+body{
+    background-color: lightyellow;
+    color: rgba(221, 13, 13, 0.865);
+
+}
+.image1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+}
+.title1{
+    text-align: center;
+
+}
+.header1{
+    font-weight: 900;
+}
